@@ -1,7 +1,7 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Heart Disease Prediction Using Machine Learning</title>
 </head>
 <body>
@@ -32,6 +32,3 @@
   <p>In conclusion, while machine learning algorithms offer promising opportunities for predicting heart disease and improving patient outcomes, it's essential to address potential challenges and limitations to ensure the reliability, fairness, and ethical use of predictive models in healthcare settings.</p>
 </body>
 </html>
-```
-
-You can copy and paste this HTML code into your README file on GitHub.
