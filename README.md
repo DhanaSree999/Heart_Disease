@@ -8,6 +8,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 #Machine Learning algorithms used:
 
 **Logistic Regression (Scikit-learn)**
+/br
 **Naive Bayes (Scikit-learn)**
 **Support Vector Machine (Linear) (Scikit-learn)**
 **K-Nearest Neighbours (Scikit-learn)**
