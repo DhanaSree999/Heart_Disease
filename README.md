@@ -1,9 +1,5 @@
+#Heart Disease Prediction.
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Heart Disease Prediction Using Machine Learning</title>
-</head>
 <body>
   <h1>Introduction:</h1>
   <p>Heart disease is a significant global health concern, responsible for a large number of deaths worldwide. Early detection and prediction of heart disease play a crucial role in preventing its progression and reducing mortality rates. Machine learning algorithms have emerged as powerful tools in healthcare for predicting and diagnosing various medical conditions, including heart disease. By analyzing large datasets of patient information, these algorithms can identify patterns and risk factors associated with heart disease, enabling healthcare professionals to intervene early and provide personalized treatment plans.</p>
